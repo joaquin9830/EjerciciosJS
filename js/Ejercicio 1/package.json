@@ -1,0 +1,13 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Este es el primer proyecto Js con Node en Open Boot Camp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "node hola_bootcamp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joaquín Viñolo",
+  "license": "ISC"
+}
